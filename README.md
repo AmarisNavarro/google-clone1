@@ -7,7 +7,7 @@ En este proyecto utilizamos el editor de còdigo Visual Studio Code y los lengua
 <ol>
   <li>Menù de navegaciòn </li>
   <li>Logo e input de busqueda</li>
-  <li>Menu de footer</li>
+  <li>Menù de footer</li>
 </ol>
 
 ### Vista Previa
